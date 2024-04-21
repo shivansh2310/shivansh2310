@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<a href="https://gitroll.io/profile/uJanc7o0p4NhimID1XGf5SGxQhk72" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uJanc7o0p4NhimID1XGf5SGxQhk72" alt="GitRoll Profile Badge"/></a>
+
+
 <!--
 **shivansh2310/shivansh2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
