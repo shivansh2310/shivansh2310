@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 <a href="https://gitroll.io/profile/uJanc7o0p4NhimID1XGf5SGxQhk72" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uJanc7o0p4NhimID1XGf5SGxQhk72" alt="GitRoll Profile Badge"/></a>
 
